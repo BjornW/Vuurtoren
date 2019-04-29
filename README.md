@@ -1,7 +1,7 @@
 Vuurtoren is a set of quick 'n dirty PHP scripts to assist in testing websites with [Lighthouse](https://developers.google.com/web/tools/lighthouse). 
 
-_Keep in mind these scripts were developed for my own purpose. I only share this scripts so others (including myself) may learn from it. 
-Pull request and issues are welcomed but do not assume these scripts will be maintained._ 
+_Keep in mind these scripts were developed for my own purpose. I only share these scripts so others (including myself) may learn from it. 
+Pull requests and issues are welcomed but do not assume these scripts will be maintained._ 
 
 ## Installation and use ##
 0. Install PHP CLI (at least 7.2.17) 
