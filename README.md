@@ -13,7 +13,7 @@ Pull requests and issues are welcomed but do not assume these scripts will be ma
 6. Check if the sitemaps where downloaded correctly in sitemaps
 7. In the terminal run: `php -f generateURLsFromSitemaps.php sitemaps` to generate files with urls for Lighthouse 
 8. Check if the files are created correctly in urls 
-9. In the terminal run: `time php -f runLighthouseOnURLS.php` (time is an optional command-line utility showing how long the script took) 
+9. In the terminal run: `time php -f runLighthouseOnURLS.php urls` (time is an optional command-line utility showing how long the script took) 
 10. Enjoy doing something else while Lighthouse tests your website(s) 
 
 
