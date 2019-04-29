@@ -19,6 +19,6 @@ Pull requests and issues are welcomed but do not assume these scripts will be ma
 
 ### Versions used ###
 - Ubuntu 18.04.2 LTS
-- NPM 6.4.1 (Nodejs 10.15.3 deb from Nodesource, Ubuntu 18.04.2 LTS was older if I remember correctly) 
+- NPM 6.4.1 (Nodejs 10.15.3 deb from Nodesource, Ubuntu's package was older if I remember correctly) 
 - Lighthouse 4.1.0
 - PHP 7.2.17 
