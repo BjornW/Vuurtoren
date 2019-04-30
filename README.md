@@ -4,7 +4,7 @@ _Keep in mind these scripts were developed for my own purpose. I only share thes
 Pull requests and issues are welcomed but do not assume these scripts will be maintained._ 
 
 ## Installation and use ##
-0. Install PHP CLI (at least 7.2.17) 
+0. Install PHP CLI (at least 7.2.17) including PHP-XML (I've used Ubuntu's default packages) 
 1. Install CLI version of Lighthouse using this [guide](https://developers.google.com/web/tools/lighthouse/#cli).   
 2. Git clone this repository 
 3. Read the scripts: 'fetchSitemaps.php', 'generateURLsFromSitemaps.php' and 'runLighthouseOnURLS.php'. The last one contains the Lighthouse parameters, feel free to adjust to your own liking. 
@@ -16,6 +16,7 @@ Pull requests and issues are welcomed but do not assume these scripts will be ma
 9. In the terminal run: `time php -f runLighthouseOnURLS.php urls` (time is an optional command-line utility showing how long the script took) 
 10. Enjoy doing something else while Lighthouse tests your website(s) 
 
+Note: You need to do this on a machine with Chrome browser installed. Chromium apparently gave errors such as NO_TRACING_STARTED
 
 ### Versions used ###
 - Ubuntu 18.04.2 LTS
